@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "databasevpdate",
+        "uuid": 40813995,
+        "checksum": "pdf16e"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
